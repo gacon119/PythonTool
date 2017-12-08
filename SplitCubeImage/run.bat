@@ -1,0 +1,1 @@
+python splitcubemap.py bg.jpg
